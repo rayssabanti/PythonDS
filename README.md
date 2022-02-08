@@ -19,30 +19,46 @@ Mostrar o conhecimento prático adquirido com o curso da Alura de Python focado 
 
 ### :heavy_plus_sign: Módulo 2
 
-* Carregar dados externos com o Numpy :heavy_check_mark:
-* A realizar operações matemáticas com Python :heavy_check_mark:
-* Como criar e atribuir valores a variáveis na linguagem Python :heavy_check_mark:
-* Os tipos de dados básicos em Python :heavy_check_mark:
-* A realizar transformações de tipos de dados :heavy_check_mark:
+* Numpy :heavy_check_mark:
+* Operações matemáticas com Python :heavy_check_mark:
+* Trabalhar com variáveis :heavy_check_mark:
+* Tipos de dados :heavy_check_mark:
+* Transformações de tipos de dados :heavy_check_mark:
 * As regras e características básicas da linguagem Python (indentação, comentários e interpolação de *strings*) :heavy_check_mark:
-* **Listas**, que são um tipo de sequência mutável que podemos utilizar para armazenar coleções de itens :heavy_check_mark:
-* Formas de criação de listas em Python :heavy_check_mark:
+* **Listas**, :heavy_check_mark:
 * A realizar operações básicas com listas, como a pertinência, concatenação e verificação de características :heavy_check_mark:
 * Técnicas de seleção de itens e fatiamento com listas do Python :heavy_check_mark:
-* A utilizar métodos básicos de listas :heavy_check_mark:
-* Como utilizar estruturas de repetição e condicionais na linguagem Python :heavy_check_mark:
 * A construção de laços `for` :heavy_check_mark:
-* A iteração em listas do Python :heavy_check_mark:
 * *Loops* aninhados em listas de listas :heavy_check_mark:
 * Cláusulas `if`, `elif` e `else` :heavy_check_mark:
-* Operadores lógicos e de comparação :heavy_check_mark:
 * *List comprehensions* :heavy_check_mark:
-* A importação de pacotes em Python :heavy_check_mark:
 * Técnicas para criação de *arrays* Numpy :heavy_check_mark:
 * *Arrays* de mais de uma dimensão :heavy_check_mark:
-* Comparações de desempenho entre *arrays* Numpy e listas do Python :heavy_check_mark:
 * Operações aritméticas com *arrays* Numpy :heavy_check_mark:
 * Seleções de itens e fatiamentos em *arrays* :heavy_check_mark:
 * Indexação com *arrays* *booleanos* :heavy_check_mark:
 * Atributos e métodos de *arrays* no pacote Numpy :heavy_check_mark:
 * A geração de estatísticas descritivas e sumarizações com *arrays* :heavy_check_mark:
+
+### :heavy_plus_sign: Módulo 3
+* Pandas :heavy_check_mark:
+* Estatísticas descritivas com o pandas :heavy_check_mark:
+* Tuplas :heavy_check_mark:
+* Seleção e fatiamento de tuplas :heavy_check_mark:
+* Iteração com tuplas :heavy_check_mark:
+* Desempacotamento :heavy_check_mark:
+* Zip() :heavy_check_mark:
+* Estruturas de dados de mapeamento - Dicionários :heavy_check_mark:
+* Operações básicas com dicionários (pertinência, acesso, atribuição) :heavy_check_mark:
+* Métodos de dicionários :heavy_check_mark:
+* Iteração com dicionários :heavy_check_mark:
+* Buit-In functions :heavy_check_mark:
+* Funções :heavy_check_mark:
+* Series e Dataframes :heavy_check_mark:
+* Fatiamento :heavy_check_mark:
+* .loc e .iloc :heavy_check_mark:
+* Queries :heavy_check_mark:
+* Iteração básica com dataframes :heavy_check_mark:
+* Tratamento de dados faltantes :heavy_check_mark:
+
+
