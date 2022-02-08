@@ -8,7 +8,6 @@ Mostrar o conhecimento prático adquirido com o curso da Alura de Python focado 
 * Funções com parâmetro :heavy_check_mark:
 * Condicionais :heavy_check_mark:
 * Conversão de tipos :heavy_check_mark:
-* Listas :heavy_check_mark:
 * For :heavy_check_mark:
 * Boolean :heavy_check_mark:
 * Listas :heavy_check_mark:
@@ -18,7 +17,6 @@ Mostrar o conhecimento prático adquirido com o curso da Alura de Python focado 
 ![image](https://user-images.githubusercontent.com/61653788/148432424-8940d140-84bc-4691-aaf3-b55d0a8d8a27.png)
 
 ### :heavy_plus_sign: Módulo 2
-
 * Numpy :heavy_check_mark:
 * Operações matemáticas com Python :heavy_check_mark:
 * Trabalhar com variáveis :heavy_check_mark:
@@ -39,6 +37,9 @@ Mostrar o conhecimento prático adquirido com o curso da Alura de Python focado 
 * Indexação com *arrays* *booleanos* :heavy_check_mark:
 * Atributos e métodos de *arrays* no pacote Numpy :heavy_check_mark:
 * A geração de estatísticas descritivas e sumarizações com *arrays* :heavy_check_mark:
+
+![image](https://user-images.githubusercontent.com/61653788/152894490-4ab8ed1f-dc35-437e-bae4-3238aad8b5c6.png)
+
 
 ### :heavy_plus_sign: Módulo 3
 * Pandas :heavy_check_mark:
@@ -61,4 +62,5 @@ Mostrar o conhecimento prático adquirido com o curso da Alura de Python focado 
 * Iteração básica com dataframes :heavy_check_mark:
 * Tratamento de dados faltantes :heavy_check_mark:
 
+![image](https://user-images.githubusercontent.com/61653788/152894711-2abf5688-a5e2-494c-b689-11ce6d4782e1.png)
 
